@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "name": "Marsha's Blog",
+  "shortDesc": "This is my blog about our adventures out west.",
+  "url": "https://marsha-blog.netlify.app",
+  "authorEmail": "Mgray9999@yahoo.com",
+  "authorHandle": "",
+  "authorName": "Marsha Gray",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "no",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 4
 }
