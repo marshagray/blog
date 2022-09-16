@@ -14,9 +14,9 @@ Seems like we always meet new friends at the swimming pool, but last night was c
 
 .We’re super excited!  We’re looking forward to some MELON-MUNCHING FUN this weekend!  The 116th annual Melon Festial is taking place in Green River.  Who knew??!  Certainly it me when I planned our stay here.  But such a bonus!  Apparently Green River is know for all of its different types of melons and they’re all supposed to be super sweet!  We bought a couple this afternoon.  We cut open the Israeli melon and it is delicious.  It’s the one with the darker markings on it.  We also bought a Canary melon that we will try tomorrow.  
 
-![](/images/3c0981dd-377e-4774-b2cc-a7adbe48e5a6.jpeg "Israeli")
+![](/images/3c0981dd-377e-4774-b2cc-a7adbe48e5a6.jpeg "Israeli melon")
 
-![](/images/bd13422e-8c6b-467b-a2c5-1b7409a217a9.jpeg "Canary")
+![](/images/bd13422e-8c6b-467b-a2c5-1b7409a217a9.jpeg "Canary melon")
 
 So the festival starts tomorrow and there will be a parade, free samplings of melons and lots of venues set up in the city parK.  We’ll get to see the famous watermelon float!  Should be fun!!!  And, by the way, the weather is beautiful.  Highs in the lower 80s and lows in the upper 50s. Great sleeping weather!  
 
